@@ -20,9 +20,9 @@ You will also see any lint errors in the console.
 
 ## Husky dev commands while set up
 
-### npx husky-init && npm install
+### `npx husky-init && npm install`
 
-### npx husky add .husky/pre-push "npm test -- --watchAll=false"
+### `npx husky add .husky/pre-push "npm test -- --watchAll=false"`
 
 ### `npm test`
 
